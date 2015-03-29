@@ -1,0 +1,39 @@
+<style>
+
+#ul 
+{
+list-style-type: circle;
+}
+
+#header
+{
+color:black;
+text-align:center;
+padding:5px;
+font-style: italic;
+}
+
+#header1, #header2, #header3
+ {
+color:black;
+text-align:center;
+padding:5px;
+font-style: italic;
+}
+
+#one, #two, #three
+{
+height:650px;
+width:950px;
+margin:0 auto;
+font-size: 12px;
+font-family:Arial, Helvetica, sans-serif;
+border-top-style: solid;
+border-right-style: groove;
+border-bottom-style: solid;
+border-left-style: groove;
+border-color: 5px #808080;
+text-align:center;
+font-weight: bold;
+
+}
