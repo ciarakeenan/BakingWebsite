@@ -1,0 +1,143 @@
+<!Doctype html>
+<!--Page 1 of the baking website --> 
+<html>
+<head> 
+<title> Cupcake Favourites </title> 
+<link rel="stylesheet" type="text/css" href="stylesheet1.css"/>
+</head> 
+
+<body background="bg4.jpg">
+<!--These will need updated with the pages we add-->
+<ul>
+ <li><a href="index.asp">Home</a></li>
+ <li><a href="page2.asp">News</a></li>
+ <li><a href="page3.asp">Contact</a></li>
+ <li><a href="page4.asp">About</a></li>
+</ul>
+
+<!--This is the main header for the page-->
+<div id="header">
+<h1>CUPCAKES CUPCAKES CUPCAKES</h1>
+</div>
+
+<!--I have given each of the three recipes there own heading-->
+<div id="header1">
+<h1>Summer Lemon Suprise</h1>
+</div>
+<!--I have nested 1 div inside another to allow for a smooth ui and have different colors of text-->
+<div id="one">
+<p>
+<h4><font color= "black">Ingredients</h4><br>
+For the cakes:<br>
+125g of softened butter<br>
+125g of caster sugar<br>
+2 medium eggs<br>
+100g of self raising flour<br>
+2 tbsp of milk<br>
+2 lemons<br>
+For the icing<br>
+175g of softened butter<br>
+350g of icing sugar<br>
+</p>
+<div id="five">
+<p>
+<h2><font color="FAF0E6">Method</h2><br>
+Lemon cupcakes are always a favourite, and these are simply delicious!
+</p>
+<p>
+Heat the oven to 180 degrees.<br>
+Using a whisk, beat together the butter and the sugar until light and fluffy.<br>
+Add the eggs, flour (sifted), milk and the zest of the two lemons and a little squeeze of juice.<br>
+Mix everything until it is a smooth mixture.<br>
+Spoon one and a half tea spoons of the mix into the cake cases.<br>
+Bake in the oven for 10-15 mins.<br>
+While they are cooking, make the icing by whisking the butter in a bowl. Then add the icing sugar and mix.<br>
+Add the zest if any remaining lemon zest and however much of the rest of lemon juice.<br>
+Put the cakes on a cooling rack to cool. When they have finished cooling, pipe or spread the icing in to the cakes.<br>
+You could add a lemon flavour sweet of a small pice of chopped up lemon if wanted.<br> 
+</p>
+</div>
+</div>
+
+<div id="header2">
+<h1>Lemon Flavoured Cupcakes</h1>
+</div>
+
+<div id="two">
+<h4><font color= "black">Ingredients</h4><br>
+<p>
+2 cups flour<br>
+.5 teaspoon salt<br>
+2 teaspoons baking powder<br>
+.5 cup butter, softened<br>
+.75 cups of sugar<br>
+2 eggs<br>
+1 cup milk<br>
+1 teaspoon vanilla essence<br>
+</p>
+<div id="six">
+<p>
+<h2><font color="FAF0E6">Method</h2><br>
+Preheat oven to 375f or 170c; line muffin cups with papers.<br>
+Cream butter and sugar till light and fluffy. beat in eggs one at a time.<br>
+Add flour (mixed with baking powder and salt) alternating with milk beat well; <br>
+Stir in vanilla.<br>
+Divide evenly among pans and bake for 18 minutes. let cool in pans.<br>
+Buttercream Icing Suggestions<br>
+For plain buttercream,<br>
+Beat 110g butter until soft.<br>
+Stir in 110g icing sugar, a tablespoon at a time.<br>
+For vanilla buttercream.<br>
+Add half teaspoon vanilla extract and beat to combine.<br>
+For lemon buttercream,<br>
+Beat in 1 tbsp lemon juice- add 1 tsp at a time.<br>
+Taste after each addition.<br>
+For chocolate buttercream,<br>
+Beat in quarter tsp vanilla.<br>
+60g (2oz) melted and cooled milk chocolate and 2 tbsp cocoa powder.<br>
+</p>
+</div>
+</div>
+
+<div id="header3">
+<h1>Peanut Butter Favourites</h1>
+</div>
+<div id ="three">
+<p>
+<h4><font color= "black">Ingredients</h4><br>
+.33cup softened butter<br>
+.5cup peanut butter<br>
+1.25 cups brown sugar<br>
+1 egg<br>
+1 ts vanilla extract<br>
+2 cups all-purpose flour<br>
+.5 teaspoon salt<br>
+.5 ts baking powder<br>
+.5 ts baking soda<br>
+.25 ts ground cinnamon<br>
+.75 cup 2% milk<br>
+</p>
+0
+<div id ="four">
+<p>
+<h2><font color="FAF0E6">Method</h2><br>
+This simple recipe is easy to follow and great fun!!
+Feel free to add on whatever icing flavours you want - be creative.
+</p>
+<p>
+In a large bowl, cream the butter, peanut butter and brown sugar until light and fluffy.<br>
+Beat in egg and vanilla.<br>
+Combine the dry ingredients; add to creamed mixture alternately with milk, beating well after each addition. <br>
+Fill paper-lined muffin cups two-thirds full.<br>
+Bake at 350° for 18-22 minutes or until a toothpick inserted near the center comes out clean.<br>
+Cool for 10 minutes before removing from pans to wire racks to cool completely.<br>
+For frosting, in a small bowl, cream peanut butter and sugar until light and fluffy.<br>
+Beat in honey and vanilla. Beat in enough milk to achieve a spreading consistency. 
+Frost cupcakes.<br>
+Yield: about 1-1/2 dozen.
+</p>
+</div>
+</div>
+
+</body>
+</html>
