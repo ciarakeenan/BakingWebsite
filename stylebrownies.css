@@ -1,0 +1,53 @@
+<style>
+
+#header 
+{
+background-color:#eeeeee;
+color:white;
+float:right;
+padding:5px;
+}
+#section3 
+{
+line-height:20px;
+background-color:#eeeeee;
+height:500px;
+width:430px;
+float:right;
+padding:5px;
+background-image: url("caramel.jpg");	      
+}
+#section 
+{
+width:430px;
+height:500px;
+line-height:25px;
+background-image: url("bg4.jpg");
+float:left;
+padding:5px;
+ 	 
+}
+
+#section1 
+{
+width:440px;
+float:left;
+line-height:30px;
+padding:5px;
+background-image: url("bg5.jpg");
+height:500px;	
+color: black;
+text-align: right; 	 
+}
+
+
+
+#footer 
+{
+color:white;
+clear:both;
+text-align:center;
+padding:5px;
+float: bottom;	 	 
+}
+</style>
